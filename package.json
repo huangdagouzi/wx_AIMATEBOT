@@ -1,7 +1,7 @@
 {
-  "name": "wxcloudrun-koa",
+  "name": "wx-AIMATEBOT",
   "version": "1.0.0",
-  "description": "微信云托管 koa 框架模板",
+  "description": "AIMATE服务",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -18,6 +18,7 @@
     "koa-logger": "^3.2.1",
     "koa-router": "^10.1.1",
     "mysql2": "^2.3.3",
+    "openai": "^3.1.0",
     "sequelize": "^6.13.0"
   }
 }
